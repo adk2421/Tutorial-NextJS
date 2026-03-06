@@ -6,7 +6,6 @@ export default function Page() {
       src="/certificate/dashboard-app-certificate.jpg"
       width={1000}
       height={760}
-      className="hidden md:block"
       alt="Certificate of the Vercel dashboard app course"
     />
   );
